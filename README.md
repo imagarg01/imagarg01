@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ashish Garg 👋
 
-<!--
-**imagarg01/imagarg01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](./MyPic.jpeg)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Software Professional passionate about building scalable and efficient systems. I love exploring new technologies and 
+building creative solutions.
+
+## Skills & Technologies
+
+- **Languages:** Java Python, and more
+- **DevOps:** Docker, Kubernetes, Jenkins, Git, etc.
+- **Other:** GitHub Actions, Agile methodologies, etc.
+- **Cloud:** AWS, Azure, etc.
+
+## Projects
+
+- [Learning Stuff](https://github.com/imagarg01/LearningStuff)) - Capturing documentation for learning new technologies and sample code.
+
+## Blogs
+
+- [My Blog](https://yourblog.com) - Check out my latest posts.
+
+## My Website
+
+- [Link](https://imagarg.in/)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ashish-garg-5770298/)
+- [Twitter](https://x.com/imagarg)
+- [Email](mailto:garg2008@gmail.com)
+
+Thanks for visiting my profile!
