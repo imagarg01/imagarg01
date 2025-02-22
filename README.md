@@ -1,6 +1,6 @@
 # Hi, I'm Ashish Garg 👋
 
-![Profile Picture](./MyPic.jpeg)
+![Profile Picture](./ProfilePic.jpeg)
 
 ## About Me
 
